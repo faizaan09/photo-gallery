@@ -1,6 +1,6 @@
 # photo-gallery
 
-##Overall Description
+## Overall Description
 
 ### 1. Product  Perspective
 This product has been designed to improve the storage and access efficiency of user’s photos. It aims at implementing a system similar to an online gallery. Online galleries show photos in various ways, Phileikones will store the images of the user and show them as a part of an online gallery.  
