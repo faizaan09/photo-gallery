@@ -15,18 +15,19 @@ Show all the albums associated with the user in fancy ways.
 
 ### 3. User Classes and Characteristics
 The application supports naïve users. All users fall into the same category. All users can have their own personal albums as well as shared albums. There will be an administrator to monitor the overall system.
-Operating Environment
+
+### 4. Operating Environment
 Following are the specifications of the Client System:
 
-#### Any OS
+#### 4.1 Any OS
 Web Browser: Firefox/Chrome/Opera/ Internet Explorer/ Edge / Safari
 JQuery 
 
-### 4. Following are the specifications of the Server System:
+#### 4.2 Following are the specifications of the Server System:
 
-Python version 3.4
-Support for Django Framework
-SQLite DBMS
+ 4.2.1 Python version 3.4 <br />
+ 4.2.2 Support for Django Framework <br />
+ 4.2.3 SQLite DBMS <br />
 
 ### 5. Design and Implementation Constraints
 The first constraint is that there is no valid verification of the image content provided by the user, copyright infringement is possible. The user can’t upload multiple images simultaneously.
